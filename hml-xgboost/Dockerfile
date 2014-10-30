@@ -1,5 +1,5 @@
 ##
-## higgsml/hml-xgboost holds the xgboost code
+## higgsml/xgboost holds the xgboost code
 ##
 FROM higgsml/hml-base
 MAINTAINER binet@cern.ch
